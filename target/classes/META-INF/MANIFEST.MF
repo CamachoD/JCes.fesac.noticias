@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: JCes.fesac.noticias
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: camacho
+Implementation-Vendor-Id: es.fesac.noticias
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/JCes.fesac.noticias
+Created-By: Maven Integration for Eclipse
+
